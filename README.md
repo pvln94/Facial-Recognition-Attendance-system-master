@@ -1,4 +1,4 @@
-# Facial Recognition Attendance System
+# Facial Recognition Attendance System Using Haarcascade Classifier
 
 This project uses facial recognition technology to mark attendance for individuals by detecting faces through a webcam. It stores the attendance records in CSV files, both with duplicates and without duplicates. The project consists of three main Python files: `face_dataset.py`, `face_training.py`, and `face_recognition.py`.
 
